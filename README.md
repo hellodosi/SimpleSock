@@ -9,3 +9,7 @@ a simple UI for Wiresock/Wireshark
 
 # Contibuting
 Contributions are allowed and welcome. This is my first project in Python, and any help is welcome and gratefully accepted.
+
+# Screenshots
+![Tray-Icon](/Screenshots/trayicon.png "Tray-Icon")
+![TSettings Screen](/Screenshots/Settings.png "Settings-Screen")
